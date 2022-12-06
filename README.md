@@ -6,7 +6,7 @@
 
 
 **Skills :**
-
+<img src="https://raw.githubusercontent.com/LePetitTim/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lepetittim&skills=JavaScript,TypeScript,Python,Shell,Plpgsql,css,html"
 />
